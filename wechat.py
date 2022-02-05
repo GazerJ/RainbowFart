@@ -40,7 +40,7 @@ try:
     time.sleep(1)
     pyautogui.hotkey('backspace')
     time.sleep(1)
-    pyautogui.typewrite('baobao')
+    pyautogui.typewrite('******')#这里写要发送的好友的备注
     time.sleep(1)
     pyautogui.hotkey('space')
     time.sleep(1)
